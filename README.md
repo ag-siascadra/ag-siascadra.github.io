@@ -1,1 +1,2 @@
-# Siascadra Website for Bot Wiki, and other for Arkadia-Games.com
+# Siascadra Website 
+Create for Bot Wiki, and other for Arkadia-Games.com
